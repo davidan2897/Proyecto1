@@ -1,0 +1,11 @@
+﻿David;hola;David Aguilera;cedula;3e43w;Bibliotecario
+a;a;a;a;a;a
+a;0cc175b9c0f1b6a831c399e269772661;a;a;a;Autor
+davidan2897;3691308f2a4c2f6983f2880d32e29c84;david aguilera;cedula;305070211;Bibliotecario
+kevin;hdhdd;kevin quesada;cedula;11;Usuario
+michelle;a;michelle abarca;cedula;6363;Usuario
+g;g;g;g;g;Usuario
+j;j;j;j;j;Usuario
+d;8277e0910d750195b448797616e091ad;d;d;d;Usuario
+condorito;0cc175b9c0f1b6a831c399e269772661;Pedro Vasquez;cedula;305070211;Autor
+pepito;4a8a08f09d37b73795649038408b5f33;Juan Pepito;cedula;1;Usuario

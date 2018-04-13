@@ -1,0 +1,3 @@
+libro;11/4/2018;autor;codigo;tema;subtema;Prestado
+dd;12/4/2018;a;ff;ff;ff;Disponible
+Quijote;2/3/18;Pedro;2136458745;Aventura;Enseñanza

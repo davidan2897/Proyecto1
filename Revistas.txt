@@ -1,0 +1,2 @@
+revista;12/4/2018;autor;codigo;edicionPrestado
+El chismorraso;13/4/2018;condorito;123;2018;Disponible
